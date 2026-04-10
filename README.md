@@ -20,9 +20,9 @@ Helps management track **KPIs (sales, revenue, profit, returns)**, compare **reg
 AdventureWorks sample database from Microsoft → [Download here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure).
 
 ## Screenshots
-![Exec Dashboard](images/exec_dashboard.jpg)
-![Product Performance](images/product_detail.jpg)
-![Customer Performance](images/customer_detail.jpg)
+![Exec Dashboard](exec_dashboard.jpg)
+![Product Performance](product_detail.jpg)
+![Customer Performance](customer_detail.jpg)
 
 ## Tech Stack
 - Power BI Desktop
