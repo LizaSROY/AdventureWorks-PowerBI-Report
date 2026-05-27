@@ -30,4 +30,4 @@ AdventureWorks sample database from Microsoft → [Download here](https://learn.
 - Power Query for data transformation
 
 ## Author
-Sroy Liza — [[LinkedIn]https://www.linkedin.com/in/lizasroy99/] | Built for management KPI tracking
+Sroy Liza — [https://www.linkedin.com/in/lizasroy99/] | Built for management KPI tracking
